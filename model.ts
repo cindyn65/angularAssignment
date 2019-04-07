@@ -20,6 +20,7 @@ export interface CharacterDetails{
     gender: string,
     Homeword: string,
     films: string,
+    test: string,
 }
 
 
